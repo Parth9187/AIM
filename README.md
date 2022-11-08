@@ -1,9 +1,5 @@
 # AIM Main Content 
 
-This repository will contain the following (Currently a WIP)
-1. Example Notebooks Used in Workshops
-2. Exercise Notebooks to Practice Skills Learnt
-3. Starter DataSets
-4. API User Guide
+AIM is an 8-week AI program to go from being a beginner to having a complete project under your belt. Learn more about the program and our mission at: https://ai-mentors.com/
 
-Check here by the 30th of September 2022 for V1.0 of the content.
+This respository contains all in-program resources used during workshops as well as exercises and tutorials to build fluency.
